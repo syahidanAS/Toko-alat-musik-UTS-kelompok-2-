@@ -1,0 +1,2 @@
+1.Link untuk mengakses halaman user  : http://localhost/toko_musik/
+2.Link untuk mengakses halaman admin : http://localhost/toko_musik/admin/dashboard_admin
